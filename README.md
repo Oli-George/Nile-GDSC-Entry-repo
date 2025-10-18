@@ -17,7 +17,7 @@ Tasks designed for those with foundational knowledge in AI/ML. Each domain conta
 Advanced tasks for experienced practitioners, featuring more complex challenges and real-world applications.
 
 Both levels include tasks in three AI/ML domains:
-- **General Machine Learning** - General machine learning 
+- **General Machine Learning** - supervised learning, unsupervised learning 
 - **Computer Vision** - Image processing, object detection, and segmentation
 - **Deep Learning** - Neural networks, transfer learning, and regularization
 - **Natural Language Processing** - Text classification, NER, and text generation
