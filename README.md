@@ -73,24 +73,12 @@ Nile-GDSC-intermediate-questions-repo/
 3. **Commit and push** your changes to your forked repository
 4. **Submit a pull request** OR **share your repository link** as instructed by the GDSC team
 
-### What to Include
-
-- Your completed `starter.ipynb` notebook with:
-  - All code cells executed and showing output
-  - Clear comments explaining your approach
-  - Visualizations and results as required by the task
-- Any additional files needed to run your solution
-- A brief summary at the end of your notebook explaining:
-  - Which task(s) you completed
-  - Challenges you faced
-  - Results achieved
 
 ### Evaluation Criteria
 
 - **Code Quality**: Clean, well-commented, and organized code
 - **Completeness**: All task requirements fulfilled
-- **Accuracy**: Model performance meets the specified targets
-- **Understanding**: Clear demonstration of concepts
+- **Accuracy**: Model performance meets the specified targets (if any)
 - **Creativity**: Innovative approaches and insights (bonus points)
 
 ## Support
@@ -98,6 +86,6 @@ Nile-GDSC-intermediate-questions-repo/
 If you have questions or need clarification:
 - Review the `tasks.md` file for detailed requirements
 - Check the hints provided in each notebook
-- Reach out to the GDSC team through the official channels
+- Any questions reach out on the Group Chat
 
 Good luck! 🚀
