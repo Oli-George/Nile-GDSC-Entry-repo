@@ -10,13 +10,13 @@ This folder contains resources and exercises for Computer Vision at the intermed
 
 Open the `starter.ipynb` notebook to begin working on the exercises.
 
-## Topics Covered
+## Topics Covered could be
 
 - Image Processing
 - Object Detection
 - Image Classification
 - Feature Extraction
-- And more...
+- And many more...
 
 ## Requirements
 
@@ -27,7 +27,8 @@ Open the `starter.ipynb` notebook to begin working on the exercises.
 ## Instructions
 
 1. Open `starter.ipynb` in Jupyter Notebook or JupyterLab
-2. Follow the instructions in the notebook
-3. Complete the exercises as indicated
+2. Review the three tasks available in the notebook
+3. **Complete ANY ONE task** (or 2 if you want to challenge yourself)
+4. Refer to `tasks.md` for detailed requirements for each task
 
 Good luck!
