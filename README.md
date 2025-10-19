@@ -1,6 +1,6 @@
-# Nile-GDSC Application Questions Repository
+# Nile-GDSC Ai Team Application Questions Repository
 
-This is the repository for the Nile GDSC application entry. Please make sure to read below before proceeding.
+This is the repository for the Nile GDSC Ai team application entry. Please make sure to read below before proceeding.
 
 ## Overview
 
