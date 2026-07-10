@@ -79,7 +79,7 @@ Nile-GDSC-intermediate-questions-repo/
 4. **Submit a pull request** and title it as `submission: [Your Name] - [Domain]`
 ## Support
 
-If you have questions or need clarification:
+##### If you have questions or need clarification:
 - Review the `tasks.md` file for detailed requirements
 - Check the hints provided in each notebook
 - Any questions reach out on the Group Chat
